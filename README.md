@@ -9,7 +9,7 @@
 *One-hot encoding was used to transform categorical data into numerical.
 *Different Ks were used to asses performance, when the value of K was set between 1 and 5, the accuracy levels were at 100%.
 * The 5-fold method was used to Cross validate the performance of the model, leading to a decrease of 8% when looking at the mean score.
-* Accuracy of the model after cross validation were inbetween 91% to 95%.
+* Accuracy of the model after cross validation were inbetween 91% to 95% with K range from 1 to 5.
 
 
 
